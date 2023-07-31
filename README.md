@@ -6,6 +6,8 @@ Statisfy was a project I done for my University course that essentially allows t
     - View their top tracks (Within 3 time ranges)
     - View their top artists (Within 3 time ranges)
     - View their current playing tracks
+    - View their recently played tracks
+    - View their profile
     - Search for artists
     - Use a Spotify web player to play tracks through the application
 
